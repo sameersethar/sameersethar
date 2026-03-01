@@ -1,6 +1,4 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?username=sameersethar&color=blue)
-# Hey there 👋 I'm Sameer
+# Hey there 👋 I'm Sameer             ![](https://komarev.com/ghpvc/?username=sameersethar&color=blue)
 
 I'm a Web Developer and Computer Science student with a strong interest in Object-Oriented Programming and software development.  
 
