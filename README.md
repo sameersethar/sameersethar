@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Sameer             ![](https://komarev.com/ghpvc/?username=sameersethar&color=blue)
+# Hey there 👋 I'm Sameer <img src="https://komarev.com/ghpvc/?username=sameersethar&color=blue" align="right" />
 
 I'm a Web Developer and Computer Science student with a strong interest in Object-Oriented Programming and software development.  
 
@@ -8,7 +8,6 @@ Currently:
 - 🔹 Exploring GitHub and open-source collaboration
 
 My goal is to grow as a developer while contributing to meaningful tech communities.
-
 <!--
 **sameersethar/sameersethar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
