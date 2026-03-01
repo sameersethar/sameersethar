@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=sameersethar&color=blue)
 <!--
 **sameersethar/sameersethar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
