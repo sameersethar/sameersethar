@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I'm Sameer.
+I am a Computer Science student and a web developer with an interest in learning new technologies and improving my programming skills. I enjoy working on projects, solving problems, and exploring different areas of software development. I am always looking for opportunities to learn, grow, and contribute to meaningful projects.
+
+
+📚 **Interests:**
+
+* Web Development
+* Software Engineering
+* Databases and System Design
+<br>
+🌱 I’m always learning and exploring new technologies to grow as a developer.
 
 
 ## 🌐 Socials:
