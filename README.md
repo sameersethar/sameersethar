@@ -1,4 +1,3 @@
-# About Me
 # Hi, I'm Sameer. <img src="https://komarev.com/ghpvc/?username=sameersethar&color=blue" align="right" />
 
 I am a Computer Science student and a web developer with an interest in learning new technologies and improving my programming skills. I enjoy working on projects, solving problems, and exploring different areas of software development. I am always looking for opportunities to learn, grow, and contribute to meaningful projects.
