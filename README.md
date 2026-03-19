@@ -7,7 +7,9 @@ I am a Computer Science student and a web developer with an interest in learning
 
 * Web Development
 * Software Engineering
-* Databases and System Design
+* Databases Design
+* Machine Learning
+* Data Science
 <br>
 🌱 I’m always learning and exploring new technologies to grow as a developer.
 
