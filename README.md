@@ -23,7 +23,7 @@ I am a Computer Science student and a web developer with an interest in learning
 #
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sameersethar&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sameersethar&theme=merko&hide_border=true)<br/>
+![](https://streak-stats.demolab.com?user=sameersethar&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sameersethar&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 #
 ## 🏆 GitHub Trophies
